@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RoboDK-FFB71B?style=for-the-badge&logo=RoboDK&logoColor=white"/>
 </p>
 
 #### Tools
